@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anvit</h1>
-- 👨‍💻 All of my projects are available at [my website](http://anvit.me)
+<h1 align="center">Hi 👋🏼, I'm Anvit</h1>
+🧑🏼‍💻 All of my projects are available at http://anvit.me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
